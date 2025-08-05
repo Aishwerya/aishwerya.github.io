@@ -50,8 +50,8 @@ interests:
 education:
   - area: PhD Aerospace Engineering
     institution: Georgia Institute of Technology
-    date_start: 2021-08
-    date_end: 2025-07
+    date_start: 2021-08-01
+    date_end: 2025-07-01
     summary: 
       Thesis on _Physics-Based Models for Rotor Aerodynamics under Adverse Weather_. Supervised by [Prof Lakhmi N. Sankar](https://sankar.gatech.edu/). This work focused on improving how we model rain and icing effects on rotorcraft and eVTOL systems.
     button:
@@ -59,8 +59,8 @@ education:
       url: ' https://repository.gatech.edu/home'
   - area: Rotorcraft Aerodynamics and Aircraft Icing
     institution: Georgia Institute of Technology
-    date_start: 2021-08
-    date_end: 2025-07
+    date_start: 2021-08-01
+    date_end: 2025-07-01
     summary: |
       GPA: 4.0/4.0
 
