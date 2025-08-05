@@ -2,9 +2,6 @@
 # Display name
 title: Aishwerya Gahlot, PhD
 
-# Name pronunciation (optional)
-name_pronunciation: 
-
 # Full name (for SEO)
 first_name: Aishwerya
 last_name: Gahlot
@@ -36,7 +33,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/Aishwerya
   - icon: brands/linkedin
-    url: linkedin.com/in/aishweryagahlot
+    url: https://linkedin.com/in/aishweryagahlot
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=NtoGaNAAAAAJ
   - icon: academicons/orcid
@@ -55,7 +52,7 @@ education:
     institution: Georgia Institute of Technology
     date_start: 2021-08
     date_end: 2025-07
-    summary: |
+    summary: 
       Thesis on _Physics-Based Models for Rotor Aerodynamics under Adverse Weather_. Supervised by [Prof Lakhmi N. Sankar](https://sankar.gatech.edu/). This work focused on improving how we model rain and icing effects on rotorcraft and eVTOL systems.
     button:
       text: 'Read Thesis'
