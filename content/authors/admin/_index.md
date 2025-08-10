@@ -57,23 +57,22 @@ education:
     button:
       text: 'Read Thesis'
       url: ' https://repository.gatech.edu/home'
-  - area: Rotorcraft Aerodynamics and Aircraft Icing
+  - area: MSc Aerospace Engineering
     institution: Georgia Institute of Technology
     date_start: 2021-08-01
-    date_end: 2025-07-01
-    summary: |
+    date_end: 2024-05-01
       GPA: 4.0/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BTech Aerospace with specialization in Avionics Engineering
+    institution: University of Petroleum and Energy Studies, India
+    date_start: 2016-08-01
+    date_end: 2020-01-05
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.87/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
