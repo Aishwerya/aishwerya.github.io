@@ -35,9 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+      My PhD research focused on developing physics-based models to understand how adverse weather, like rain and icing, affects rotorcraft aerodynamics,             especially for vertical lift systems such as multirotors and eVTOLs. I built integrated computational frameworks combining high- and low-fidelity               methods to simulate aerodynamic performance degradation and validated these models with experimental data.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+      Beyond my doctoral work, I am passionate about aircraft design, aerodynamic analysis, surrogate modeling, and multidisciplinary design optimization. I          have experience analyzing experimental data from flight tests and wind tunnels to validate and improve aerodynamic models. 
+
+      I am also interested in the process of integrating aerodynamic insights into flight test planning, data processing, and software tool development to            support design verification and certification. 
+
+        My goal is to contribute to the creation of reliable, efficient, and innovative aircraft that perform            safely across a wide range of operating conditions.
         
         Please reach out to collaborate 😃
     design:
