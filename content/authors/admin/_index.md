@@ -52,17 +52,18 @@ education:
     institution: Georgia Institute of Technology
     date_start: 2021-08-01
     date_end: 2025-07-01
-    summary: 
+    summary: |
       Thesis on _Physics-Based Models for Rotor Aerodynamics under Adverse Weather_. Supervised by [Prof Lakhmi N. Sankar](https://sankar.gatech.edu/). This work focused on improving how we model rain and icing effects on rotorcraft and eVTOL systems.
     button:
       text: 'Read Thesis'
-      url: ' https://repository.gatech.edu/home'
+      url: 'https://repository.gatech.edu/home'
   - area: MSc Aerospace Engineering
     institution: Georgia Institute of Technology
     date_start: 2021-08-01
     date_end: 2024-05-01
+    summary: |
       GPA: 4.0/4.0
-
+      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
