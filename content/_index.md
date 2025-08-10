@@ -35,7 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-      My PhD research focused on developing physics-based models to understand how adverse weather, like rain and icing, affects rotorcraft aerodynamics,             especially for vertical lift systems such as multirotors and eVTOLs. I built integrated computational frameworks combining high- and low-fidelity               methods to simulate aerodynamic performance degradation and validated these models with experimental data.
+
+    My PhD research focused on developing physics-based models to understand how adverse weather, like rain and icing, affects rotorcraft aerodynamics,             especially for vertical lift systems such as multirotors and eVTOLs. I built integrated computational frameworks combining high- and low-fidelity               methods to simulate aerodynamic performance degradation and validated these models with experimental data.
 
       Beyond my doctoral work, I am passionate about aircraft design, aerodynamic analysis, surrogate modeling, and multidisciplinary design optimization. I          have experience analyzing experimental data from flight tests and wind tunnels to validate and improve aerodynamic models. 
 
