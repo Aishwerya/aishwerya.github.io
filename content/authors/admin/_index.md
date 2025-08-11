@@ -65,9 +65,7 @@ education:
       GPA: 4.0/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Computational Fluid Dynamics, Advanced Aerodynamics, Viscous Flow, Advanced Vertical Lift Aerodynamics, Rotorcraft Design, Optimization for the Design of Engineered Systems 
   - area: BTech Aerospace with specialization in Avionics Engineering
     institution: University of Petroleum and Energy Studies, India
     date_start: 2016-08-01
@@ -76,9 +74,7 @@ education:
       GPA: 3.87/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Coursework included Aerodynamics, Flight Mechanics, Propulsion Systems, Aircraft Systems, and Avionics.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
