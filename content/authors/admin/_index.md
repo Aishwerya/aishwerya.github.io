@@ -16,14 +16,15 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Aerospace Engineer | Aerodynamicist | CFD & MDO Specialist
+role: Aerospace Engineer | Aerodynamicist | CFD Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Georgia Institute of Technology
-    url: https://ae.gatech.edu
+    url:
 
 # Social network links
+# Need to use another icon? Simply download the SVG icon to your assets/media/icons/ folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:aishwerya1@gmail.com'
@@ -38,15 +39,12 @@ profiles:
     url: https://orcid.org/0000-0003-2614-1322
 
 interests:
-  - Aircraft Design
   - Aerodynamics
   - Computational Fluid Dynamics
-  - Rotorcraft Aeromechanics
   - Aircraft and Rotorcraft Icing
+  - Rotorcraft Aeromechanics
   - eVTOLs
   - Advanced Air Mobility (AAM)
-  - Surrogate Modeling
-  - Multidisciplinary Design Optimization (MDO)
 
 education:
   - area: PhD Aerospace Engineering
@@ -54,88 +52,87 @@ education:
     date_start: 2021-08-01
     date_end: 2025-07-01
     summary: |
-      Thesis on _Physics-Based Models for Rotor Aerodynamics under Adverse Weather_. Developed computational frameworks integrating high- and low-fidelity aerodynamic models to simulate performance degradation in rain and icing, validated with experimental data. Supervised by [Prof Lakhmi N. Sankar](https://sankar.gatech.edu/).
+      Thesis on _Physics-Based Models for Rotor Aerodynamics under Adverse Weather_. Supervised by [Prof Lakhmi N. Sankar](https://sankar.gatech.edu/). This work focused on improving how we model rain and icing effects on rotorcraft and eVTOL systems.
+    button:
+      text: 'Read Thesis'
+      url: 'https://repository.gatech.edu/home'
   - area: MSc Aerospace Engineering
     institution: Georgia Institute of Technology
     date_start: 2021-08-01
     date_end: 2024-05-01
     summary: |
-      GPA: 4.0/4.0  
-      Focus areas: Rotorcraft Aeromechanics, CFD, Flight Testing, MDO, Aircraft Performance Analysis.
+      GPA: 4.0/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BTech Aerospace with specialization in Avionics Engineering
     institution: University of Petroleum and Energy Studies, India
     date_start: 2016-08-01
     date_end: 2020-01-05
     summary: |
-      GPA: 3.87/4.0  
-      Coursework included Aerodynamics, Flight Mechanics, Propulsion Systems, Aircraft Systems, and Avionics.
-
+      GPA: 3.87/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: PhD Researcher – Aerospace Engineering
-    company_name: Georgia Institute of Technology
-    date_start: 2021-08-01
-    date_end: 2025-07-01
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      - Developed computational tools for rotorcraft and eVTOL aerodynamic analysis under adverse weather.
-      - Performed validation studies using wind tunnel and flight test data.
-      - Built surrogate models and optimization workflows for design trade studies.
-      - Collaborated with NASA and industry partners to integrate experimental data into predictive aerodynamic models.
-  - position: Aerodynamics Engineering Intern
-    company_name: Leonardo Helicopters
-    date_start: 2022-05-01
-    date_end: 2022-08-01
-    summary: |
-      - Supported aerodynamic performance analysis for rotorcraft configurations.
-      - Developed scripts for flight and wind tunnel data processing.
-      - Collaborated with design and test teams to evaluate rotor efficiency and performance.
-  - position: Graduate Research & Teaching Assistant
-    company_name: Georgia Institute of Technology
-    date_start: 2021-08-01
-    date_end: 2025-07-01
-    summary: |
-      - Supported teaching in rotorcraft aerodynamics and performance courses.
-      - Mentored students in computational modeling and simulation.
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
+# Skills
+# Add your own SVG icons to assets/media/icons/
 skills:
   - name: Technical Skills
     items:
-      - name: Aerodynamic Analysis (CFD, Panel Methods)
-        percent: 95
-        icon: wind
-      - name: Multidisciplinary Design Optimization
-        percent: 90
-        icon: squares-2x2
-      - name: Surrogate Modeling & Data Analysis
-        percent: 90
-        icon: chart-bar
-      - name: Python / MATLAB / Fortran
-        percent: 85
+      - name: Python
+        description: ''
+        percent: 80
         icon: code-bracket
-      - name: Experimental Data Processing (Flight & Wind Tunnel)
-        percent: 85
-        icon: chart-line
-  - name: Tools & Software
-    items:
-      - name: OpenFOAM / STAR-CCM+ / ANSYS Fluent
-        percent: 90
-        icon: cpu-chip
-      - name: XFOIL / AVL / SU2
-        percent: 85
-        icon: wrench
-      - name: Git / GitHub
-        percent: 90
-        icon: brands/github
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
+        description: ''
         percent: 60
         icon: person-simple-walk
       - name: Cats
+        description: ''
         percent: 100
         icon: cat
       - name: Photography
+        description: ''
         percent: 80
         icon: camera
 
@@ -145,30 +142,38 @@ languages:
   - name: Hindi
     percent: 100
 
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only title, awarder, and date are required.
+#   Begin multi-line summary with YAML's | or |2- multi-line prefix and indent 2 spaces below.
 awards:
-  - title: AHS Vertical Flight Foundation Scholarship
-    date: '2024-04-15'
-    awarder: Vertical Flight Society
-    summary: |
-      Awarded for outstanding research contributions in rotorcraft aerodynamics.
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
     summary: |
-      Gained foundational knowledge of neural networks, deep learning trends, and their applications in engineering problems.
-  - title: Best Paper Award – AIAA Aviation Forum
-    date: '2023-06-20'
-    awarder: American Institute of Aeronautics and Astronautics
+      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Blockchain Fundamentals
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2023-07-01'
+    awarder: edX
+    icon: edx
     summary: |
-      Recognized for innovative methods in modeling adverse weather effects on rotorcraft.
-  - title: Leonardo Helicopters Internship Excellence Award
-    date: '2022-08-15'
-    awarder: Leonardo Helicopters
+      Learned:
+      - Synthesize your own blockchain solutions
+      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  - title: 'Object-Oriented Programming in R'
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: '2023-01-21'
+    awarder: datacamp
+    icon: datacamp
     summary: |
-      For exceptional contributions to rotorcraft aerodynamic performance analysis during summer internship.
-
-# About Me
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-Aishwerya Gahlot is an aerospace engineer and aerodynamicist with a PhD from the Georgia Institute of Technology. Her expertise spans computational fluid dynamics, rotorcraft and propeller aerodynamics, surrogate modeling, and multidisciplinary design optimization. She is passionate about applying aerodynamic principles to innovative aircraft design, performance analysis, and integrating flight test data into predictive models.
+
+## About Me
+
+Aishwerya Gahlot is an aerodynamicist, a recent PhD graduate and researcher from Georgia Institute of Technology. Her research interests include fluid dynamics, rotorcraft aerodynamics, eVTOLs, aircraft icing, aircraft design and multidisciplinary optimzation. 
