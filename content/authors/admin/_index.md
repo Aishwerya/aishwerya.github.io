@@ -76,53 +76,101 @@ education:
       Courses included:
       - Coursework included Aerodynamics, Flight Mechanics, Propulsion Systems, Aircraft Systems, and Avionics.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Graduate Research Assistant
+    company_name: GT-AE Computational Fluid Dynamics Lab
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-08-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Conduct research in Rotorcraft Aeromechanics using in-house Computational Fluid Dynamics codes (GT-Hybrid).
+      - Developed low- and high-fidelity tools to study the effects of rain and ice accretion on multirotor VTOL performance, validated with LEWICE.
+      - Supported Georgia Tech Vertical Lift Research Center of Excellence (VLRCOE) projects in collaboration with NASA Glenn Research Center and US Army.
+      - Mentored undergraduate students in rotor aerodynamics research.
+
+  - position: AW609 Aircraft Systems Integration (ASI) Intern/Co-op, Aerodynamics Department
+    company_name: Leonardo Helicopters
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2024-06-01
+    date_end: 2024-12-31
+    summary: |2-
+      - Performed CFD analyses of rain and ice crystal ingestion into the AW609 engine using Ansys Fluent and FENSAP.
+      - Developed agile CFD engine intake models for aerodynamic studies including pressure/temperature distortion, rain, and icing effects.
+      - Integrated and validated the Virtual Blade Model (Fluent VBM) for AW609 rotors.
+      - Conducted ice shedding impact analysis on rotor blades.
 
+  - position: Course Instructor – Undergraduate Aerodynamics (AE 3030)
+    company_name: Georgia Institute of Technology
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-08-01
+    date_end: 2023-12-31
+    summary: |2-
+      - Designed and taught curriculum for 51 students covering low- and high-speed aerodynamics.
+      - Instructed analytical and numerical methods for lift, drag, and pitching moment calculations.
+      - Provided one-on-one guidance to enhance student mastery.
+
+  - position: CFD Design & Simulation – Graduate Category, 2nd place
+    company_name: VFS 40th Annual Student Design Competition
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-08-01
+    date_end: 2023-06-30
+    summary: |2-
+      - Participated in 'Team Soteria' designing a high-speed VTOL aircraft per RFP specifications.
+      - Designed and sized a transonic main wing using a MATLAB framework integrating OpenVSP and FlightStream.
+      - Performed high-fidelity CFD of wing and fuselage in Ansys Fluent for drag analysis and optimization.
+
+  - position: CFD Simulation Engineer (Part-time)
+    company_name: Kimberly Clark Corporation
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-03-01
+    date_end: 2023-05-31
+    summary: |2-
+      - Investigated aerodynamic effects of wall cavities in channel flows using Ansys Fluent.
+      - Modeled fluid behavior in aspirator systems and conducted parametric studies.
+      - Advised design team on geometry modifications for performance improvement.
+
+  - position: Design Engineer-1, Aerospace Systems
+    company_name: NewSpace Research and Technologies
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-03-01
+    date_end: 2021-07-31
+    summary: |2-
+      - Developed a multidisciplinary design and optimization (MDO) framework for UAVs using Mode Frontier and Siemens HEEDS.
+      - Optimized glide pod geometry with MDAO tools.
+      - Conducted research on MDO applications for launch vehicles.
 # Skills
 # Add your own SVG icons to assets/media/icons/
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: Aerodynamic Analysis (CFD, MDO)
+        description: 'Low- & high-fidelity modeling, rotorcraft and eVTOL performance analysis'
+        percent: 95
+        icon: wind
+      - name: Programming & Automation
+        description: 'Python, MATLAB, C++, simulation scripts & data pipelines'
+        percent: 90
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Simulation Tools
+        description: 'GT-SUITE, OpenFOAM, XFOIL, AVL, ANSYS Fluent'
+        percent: 85
+        icon: cube
+      - name: Data Analysis & Visualization
+        description: 'Flight test & wind tunnel data, surrogate modeling, optimization'
+        percent: 90
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 70
         icon: person-simple-walk
       - name: Cats
         description: ''
@@ -144,31 +192,26 @@ languages:
 #   Only title, awarder, and date are required.
 #   Begin multi-line summary with YAML's | or |2- multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Vertical Flight Foundation Scholarship – Dr. Jing Yen Cost Awareness Scholarship
+    date: '2023-05-01'
+    awarder: Vertical Flight Society
+    icon: award
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Awarded for academic excellence and research contributions in rotorcraft aeromechanics and performance modeling.
+
+  - title: Sidhu Mall & Sons Gold Medal – Best All-Round Performance in the University
+    date: '2021-08-01'
+    awarder: University of Petroleum and Energy Studies
+    icon: award
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Conferred the highest honor for outstanding academic achievements, leadership, and extracurricular involvement.
+
+  - title: Dean’s List – every semester
+    date: '2017-08-01'
+    awarder: University of Petroleum and Energy Studies
+    icon: award
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Recognized for consistent academic distinction from Fall 2017 through Spring 2020.
 ---
 
 ## About Me
