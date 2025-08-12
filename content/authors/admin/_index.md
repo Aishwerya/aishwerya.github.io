@@ -167,6 +167,10 @@ skills:
         description: ''
         percent: 70
         icon: person-simple-walk
+      - name: Skydiving
+        description: ''
+        percent: 70
+        icon: ''
       - name: Pets
         description: ''
         percent: 100
