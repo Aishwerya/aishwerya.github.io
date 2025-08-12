@@ -149,17 +149,12 @@ skills:
   - name: Technical Skills
     items:
       - name: Aerodynamic Analysis (CFD, MDO)
-        description: 'Low- & high-fidelity modeling, rotorcraft and eVTOL performance analysis'
+        description: 'Low- & high-fidelity modeling, rotorcraft and eVTOL performance analysis, Ansys Fluent, FENSAP-ICE, STAR-CCM+, OPENFOAM, GT-ICE, FlightStream, OpenVSP, XFOIL, AVL, XROTOR, Actuator Disk, Blade Element Momentum Theory (BEMT), Virtual Blade Model (VBM)'
         percent: 95
-        icon: wind
       - name: Programming & Automation
-        description: 'Python, MATLAB, C++, simulation scripts & data pipelines'
+        description: 'Python, MATLAB,FORTRAN, C++, simulation scripts & data pipelines'
         percent: 90
         icon: code-bracket
-      - name: Simulation Tools
-        description: 'GT-SUITE, OpenFOAM, XFOIL, AVL, ANSYS Fluent'
-        percent: 85
-        icon: cube
       - name: Data Analysis & Visualization
         description: 'Flight test & wind tunnel data, surrogate modeling, optimization'
         percent: 90
@@ -168,15 +163,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Hiking/Exploring
         description: ''
         percent: 70
         icon: person-simple-walk
-      - name: Cats
+      - name: Pets
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Painting
         description: ''
         percent: 80
         icon: camera
