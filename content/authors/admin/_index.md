@@ -190,21 +190,18 @@ awards:
   - title: Vertical Flight Foundation Scholarship – Dr. Jing Yen Cost Awareness Scholarship
     date: '2023-05-01'
     awarder: Vertical Flight Society
-    icon: award
     summary: |
       Awarded for academic excellence and research contributions in rotorcraft aeromechanics and performance modeling.
 
   - title: Sidhu Mall & Sons Gold Medal – Best All-Round Performance in the University
     date: '2021-08-01'
     awarder: University of Petroleum and Energy Studies
-    icon: award
     summary: |
       Conferred the highest honor for outstanding academic achievements, leadership, and extracurricular involvement.
 
   - title: Dean’s List – every semester
     date: '2017-08-01'
     awarder: University of Petroleum and Energy Studies
-    icon: award
     summary: |
       Recognized for consistent academic distinction from Fall 2017 through Spring 2020.
 ---
