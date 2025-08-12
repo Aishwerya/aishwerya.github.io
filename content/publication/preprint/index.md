@@ -1,3 +1,4 @@
+draft: true
 ---
 title: "An example preprint / working paper"
 authors:
