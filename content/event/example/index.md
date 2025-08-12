@@ -2,15 +2,9 @@
 title: "Application of Low-Fidelity Methods to eVTOL Propeller Icing and Performance Degradation"
 
 event: "European Rotorcraft Forum"
-event_url: "https://www.eras.org/erf"
+event_url: "https://www.erf2025.com/programme/"
 
 location: "Venice, Italy"
-address:
-  street: ""
-  city: "Venice"
-  region: ""
-  postcode: ""
-  country: "Italy"
 
 summary: "Conference talk at the European Rotorcraft Forum 2025, presenting Paper 155 on low-fidelity methods for eVTOL propeller icing and performance degradation."
 
@@ -47,4 +41,3 @@ url_video: ""
 slides: ""
 projects: []
 ---
-s.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
