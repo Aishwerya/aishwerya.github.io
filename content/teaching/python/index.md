@@ -1,3 +1,4 @@
+draft: true
 ---
 title: Learn Python
 summary: Easily learn Python in 10 minutes!
