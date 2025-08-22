@@ -96,7 +96,7 @@ work:
     date_end: 2024-12-31
     summary: |2-
       - Performed CFD analyses of rain and ice crystal ingestion into the AW609 engine using Ansys Fluent and FENSAP.
-      - Developed agile CFD engine intake models for aerodynamic studies including pressure/temperature distortion, rain, and icing effects.
+      - Developed agile CFD engine intake models for aerodynamic studies including but not limited to pressure/temperature distortion, rain, and icing effects.
       - Integrated and validated the Virtual Blade Model (Fluent VBM) for AW609 rotors.
       - Conducted ice shedding impact analysis on rotor blades.
 
