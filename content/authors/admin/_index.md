@@ -167,7 +167,7 @@ skills:
         description: ''
         percent: 70
         icon: person-simple-walk
-      - name: Skydiving
+      - name: Love going on adventures (e.g. Skydiving)
         description: ''
         percent: 70
         icon: ''
@@ -202,6 +202,12 @@ awards:
     awarder: University of Petroleum and Energy Studies
     summary: |
       Conferred the highest honor for outstanding academic achievements, leadership, and extracurricular involvement.
+
+  - title: Solidworks xDesign Challenge
+    date: '2019-05-01'
+    awarder: Solidworks
+    summary: |
+      Won the Solidworks xDesign Challege for the future of Urban Air Mobility in India.
 
   - title: Dean’s List – every semester
     date: '2017-08-01'
