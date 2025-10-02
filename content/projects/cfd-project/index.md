@@ -8,7 +8,7 @@ tags:
   - Aerodynamics
 links:
   - name: PDF Report
-    url: report.pdf
+    url: Euler_CFD_Project.pdf
 image:
   filename: thumbnail.png
   caption: "CFD simulation showing oblique shock formation."
@@ -28,5 +28,5 @@ The solver successfully captures **oblique shock waves** generated at the airfoi
 - Verified **wave angles and pressure ratios** against analytical data.  
 - Demonstrated improvement moving from **first-order AUSM+up** to **MUSCL** scheme.  
 
-📄 Full report: [Download here](report.pdf)
+📄 Full report: [Download here](Euler_CFD_Project.pdf)
 
