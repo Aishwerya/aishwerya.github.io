@@ -10,7 +10,7 @@ links:
   - name: PDF Report
     url: Euler_CFD_Project.pdf
 image:
-  filename: thumbnail.png
+  filename: mach-contour.png
   caption: "CFD simulation showing oblique shock formation."
 ---
 
